@@ -63,7 +63,7 @@ GEM
       mime-types (>= 1.16)
     carrierwave-base64 (2.3.5)
       carrierwave (>= 0.8.0)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.10)
     crass (1.0.4)
     css_parser (1.6.0)
       addressable
@@ -256,13 +256,13 @@ GEM
     fuubar (2.3.1)
       rspec-core (~> 3.0)
       ruby-progressbar (~> 1.4)
-    globalid (0.4.1)
-      activesupport (>= 4.2.0)
+    globalid (1.0.1)
+      activesupport (>= 5.0)
     hashie (3.5.7)
     htmlentities (4.3.4)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.0.1)
+    i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     inflecto (0.0.2)
     ipaddress (0.8.3)
@@ -285,7 +285,7 @@ GEM
     mini_magick (4.7.0)
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
-    minitest (5.11.3)
+    minitest (5.17.0)
     minitest-reporters (1.1.16)
       ansi
       builder
@@ -413,7 +413,7 @@ GEM
     thor (0.20.0)
     thread_safe (0.3.6)
     trollop (2.1.2)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
